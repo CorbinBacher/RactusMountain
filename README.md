@@ -1,4 +1,4 @@
 # RacusMountain
-Prototype build for game dev final game.
+First build for game dev final game.
 
-This build contains the intro level to Ractus Mountain.
+This build contains the first 3 level in Racus Mountain.
